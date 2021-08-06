@@ -4,7 +4,7 @@ Hello Everyone,\
 In this repository, I am supposed to develop a model to predict whether a person is diabetic.\
 For this dataset, the variable **Outcome** is a categorical variable. So, this is problem is a **CLASSIFICATION PROBLEM**\
 In this ReadMe part, I will try to explain each part of my source code and give some detail about the theory behind each part.
-
+And most importantly, you can find the **Confusion Matrices, Feature Importance Charts and ROC/AUC Curves** under the **"Images"** file.
 ## 1. EXPLORATORY DATA ANALYSIS
 ![Exploratory Data Analysis](https://media-exp1.licdn.com/dms/image/C4E12AQHlhF7SooEmDA/article-cover_image-shrink_600_2000/0/1602837697395?e=1632960000&v=beta&t=PStG3FAslTNIMW4_W2D4C3kUG5qGHFbs0nfNbIyL8uI)
 
